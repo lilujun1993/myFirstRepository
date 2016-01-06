@@ -23,7 +23,7 @@ public class UserController {
 	private UserService userService;
 	
 	/**
-	 * 获取�?有用户列�?
+	 *
 	 * @param request
 	 * @return
 	 */
